@@ -33,6 +33,7 @@ Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim'}
 Plugin 'vim-scripts/taglist.vim'
 Plugin 'vim-scripts/grep.vim'
 Plugin 'vim-scripts/molokai'
+Plugin 'vim-scripts/vcscommand.vim'
 call vundle#end() " required
 filetype plugin indent on " required
 "PluginList 展示插件列表
